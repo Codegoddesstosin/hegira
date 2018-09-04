@@ -1,0 +1,878 @@
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:51:56 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 20ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:52:05 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:57:01 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (3.9ms)
+Completed 200 OK in 9ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:58:08 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:58:18 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:58:32 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 12:59:24 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-03 13:02:25 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.4.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 6ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 10:59:50 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 676ms (Views: 668.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:00:06 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 197.211.57.113 at 2018-09-04 11:01:00 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 11:01:07 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 22ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 11:21:13 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 47ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820599676900'
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 11:26:59 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820645523580'
+Started GET "/home" for 197.211.57.113 at 2018-09-04 11:28:49 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820653305500'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:30:09 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:16
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820642055260'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:42:33 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:16
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820565450000'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:46:34 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:16
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820637558040'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:52:49 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820648135120'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:55:04 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_20265420'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:55:10 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820646549840'
+Started GET "/" for 197.211.57.113 at 2018-09-04 11:57:48 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820565680240'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:01:20 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820640824740'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:01:39 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820651920760'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:21:55 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 51ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_22622560'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:22:02 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820645778880'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:23:01 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/ubuntu/workspace/app/assets/config
+  /home/ubuntu/workspace/app/assets/images
+  /home/ubuntu/workspace/app/assets/javascripts
+  /home/ubuntu/workspace/app/assets/stylesheets
+  /usr/local/rvm/gems/ruby-2.4.0/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actioncable-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/activestorage-5.2.1/app/assets/javascripts
+  /usr/local/rvm/gems/ruby-2.4.0/gems/actionview-5.2.1/lib/assets/compiled
+  /usr/local/rvm/gems/ruby-2.4.0/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/ubuntu/workspace/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:17
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2011763911761437963_69820652908160'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:25:32 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 3275ms (Views: 3267.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:37:44 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 107ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial layouts/_nav  with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/ubuntu/workspace/app/views"
+):
+    10:   </head>
+    11: 
+    12:   <body>
+    13:     <%= render '/layouts/nav ' %>
+    14:     <%= yield %>
+    15:   </body>
+    16: </html>
+  
+app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb___4172022826175720450_69870886499800'
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:39:17 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 51ms (Views: 49.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:39:59 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 65ms (Views: 63.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:40:02 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 60ms (Views: 56.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:40:13 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 46ms (Views: 44.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:40:39 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 48ms (Views: 46.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:42:20 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 49ms (Views: 47.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:42:22 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 47ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 197.211.57.113 at 2018-09-04 12:42:25 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 48ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:42:39 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 50ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:42:52 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 56ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:44:09 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 56ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:44:28 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 42ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:45:06 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 45ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:45:09 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 50ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:45:47 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 49ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:47:10 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 43ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:51:28 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 60ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:51:30 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 51ms (Views: 49.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:51:36 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 53ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:52:25 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 60ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:53:06 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 49ms (Views: 47.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 12:55:54 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 61ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:00:55 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 47ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:07:35 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 52ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:08:39 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 52ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:08:56 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 46ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:10:41 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 48ms (Views: 46.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:13:16 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_nav.html.erb (0.7ms)
+Completed 200 OK in 61ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:15:44 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 51ms (Views: 50.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:18:39 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 56ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:20:45 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 48ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/explore" for 197.211.57.113 at 2018-09-04 13:21:09 +0000
+Cannot render console from 197.211.57.113! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+Completed 200 OK in 53ms (Views: 51.1ms | ActiveRecord: 0.0ms)
+
+
