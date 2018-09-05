@@ -3,6 +3,9 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.4.0'
 
+#authentication
+gem 'devise'
+
 #Ui for Twitter 
 
 gem 'bootstrap-sass', '~> 3.3.7'
