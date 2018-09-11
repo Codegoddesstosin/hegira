@@ -36,7 +36,7 @@ user
           
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/profile">Profile</a>
+          <a class="dropdown-item" href="/user/<%= current_user.username %>">Profile</a>
            <a class="dropdown-item" href="#">Help</a>
            
              <li><%= link_to('Settings', edit_user_registration_path) %>  
