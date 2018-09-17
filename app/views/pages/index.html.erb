@@ -1,2 +1,79 @@
-<h1>Pages#index</h1>
-<p>Find me in app/views/pages/index.html.erb</p>
+<% if !user_signed_in?  #if the user is not signed in, render this %>
+ <style>
+    body {
+        background: url("https://images.pexels.com/photos/730981/pexels-photo-730981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+        h1 {
+            color: white;
+         
+        } 
+        .container-index {
+          ;
+            margin-right: 15%;
+            margin-left: 15%;
+        }
+        .text {
+            color: white;
+           
+        
+        }
+        .footer-links {
+            text-align: center;
+            color: white;
+            margin-top: 30%;
+            font-size: 75%;
+        }
+        .log-in {
+            float: right;
+            width: 300px;
+            height: 150px;
+            margin-top: 7.5;
+        }
+        .sign-up {
+            float: right;
+            width: 300px;
+            height: 250px;
+        }
+        
+   
+ 
+ </style>
+ <div class="container-index row">
+     <div class="col-sm-6">
+     <h1>Welcome to Hegira</h1>
+     <p class="text">
+         Connect with friends, share experiences.<br>
+         just like a blog but with less characters<br>
+     </p>
+      </div>
+      
+      <div class="col-sm-6">
+     
+         <div class="log-in panel">
+             login
+              </div>
+     
+      
+                   <div class="sign-up panel">
+                           sign up
+                          </div>
+      
+             
+        </div>
+ </div >
+
+    <div class="col-sm-12">
+       <p class="footer-links"> About Help Blog Status Jobs Privacy Cookies Info Brands copyright Olorunnisola Tosin 2018 </p> 
+    </div>
+    
+<% else #if th user is signed, render this %>
+
+<script>
+document.location ="/home"
+</script>
+
+<% end %>
