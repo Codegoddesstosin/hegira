@@ -5,6 +5,8 @@ class PagesController < ApplicationController
   def home
         @posts = Post.all
        @newPost = Post.new
+       
+        @toFollow = User.all.last(5)
   end
 
   def profile

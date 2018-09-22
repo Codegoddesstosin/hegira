@@ -1,28 +1,29 @@
-user
+
 <a name="top"></a>
 <div class= "container-fluid container">
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <img class="navbar-brand" src="http://www.astaspice.org/wordpress/wp-content/uploads/2016/04/9683808.jpg">
+<nav class="navbar navbar-expand-lg navbar-light">
+  <img src="https://www.androidapksfree.com/wp-content/uploads/2017/09/Twitter-Lite-APK.png" height="60">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
  
-
+ <span class="glyphicon glyphicon-fire" aria-hidden="true"></span>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
         <a class="nav-link" href="/home">Home <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/explore">Explore</a>
-      </li>
-     <li class="nav-item active">
-        <a class="nav-link" href="/home">Moments <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/explore">Notifications</a>
-      </li>
+
+
+     
+  
+ 
+        <span class="glyphicon glyphicon-bell" aria-hidden="true"></span>
+          <li class="nav-item">
+           <a class="nav-link" href="/explore">Notifications</a>
+       </li>
       
+      <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
         <li class="nav-item">
         <a class="nav-link" href="/explore">Messages</a>
       </li>
@@ -35,15 +36,13 @@ user
     
       <ul class="nav navbar-nav navbar-right">
            <form class="navbar-form navbar-left">
-           <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+           <input class="form-control" type="search" placeholder="Search Hegira" aria-label="Search">
            
           </form>
-      <li class="nav-item active">
-        <a class="nav-link" href="/tweet">Tweet <span class="sr-only">(current)</span></a>
-      </li>
+  
      
      
-       <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3fa46375259c39d07d0227e8ade6daa&auto=format&fit=crop&w=500&q=60" class="rounded-img" height="50px" width="50px"></img>
+       <img class="profile-img" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3fa46375259c39d07d0227e8ade6daa&auto=format&fit=crop&w=500&q=60" class="rounded-img" height="50px" width="50px"></img>
       <li class="nav-item dropdown">
       
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -53,8 +52,8 @@ user
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="/user/<%= current_user.username %>">Profile</a>
-           <a class="dropdown-item" href="#">Help</a>
-           
+            <a class="dropdown-item" href="#">Explore</a>
+              <a class="dropdown-item" href="#">Help</a>
              <li><%= link_to('Settings', edit_user_registration_path) %>  
             
              </li>
