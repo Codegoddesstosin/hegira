@@ -17,16 +17,20 @@
 
      
   
- 
-        <span class="glyphicon glyphicon-bell" aria-hidden="true"></span>
+         
+            
           <li class="nav-item">
            <a class="nav-link" href="/explore">Notifications</a>
        </li>
+        
+       
+     
       
-      <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
         <li class="nav-item">
         <a class="nav-link" href="/explore">Messages</a>
       </li>
+     
+      
      
     </ul>
    
@@ -54,11 +58,11 @@
           <a class="dropdown-item" href="/user/<%= current_user.username %>">Profile</a>
             <a class="dropdown-item" href="#">Explore</a>
               <a class="dropdown-item" href="#">Help</a>
-             <li><%= link_to('Settings', edit_user_registration_path) %>  
+             <li class="nav-item"><%= link_to('Settings', edit_user_registration_path) %>  
             
              </li>
             
-            <li><%= link_to('Log Out', destroy_user_session_path, :method => :delete) %>  
+            <li class="nav-item"><%= link_to('Log Out', destroy_user_session_path, :method => :delete) %>  
               
              </li>
         </div>

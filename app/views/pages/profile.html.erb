@@ -48,8 +48,12 @@
 
  
      <div class ="col-xs-3">
+                 <%= render '/components/follow_button', :user => User.find_by_username(params[:id]) %>
              <div class ="panel panel-default">
+                     
             <div class="panel-body">
+                
+          
                 <h5 style="color: grey; font-size: 125%;">Who to follow</h5>
                 
                  <% for @u in @toFollow do %>
@@ -69,7 +73,7 @@
               <a href="">#Trend #3</a><br>
                 <span style="color: grey;">16k Posts</span><br><br>
          
-   <%= render '/components/follow_button', :user => User.find_by_username(params[:id]) %>
+ 
    
             </div>
     </div>
